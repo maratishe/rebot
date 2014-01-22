@@ -1,3 +1,14 @@
+<style> 
+em { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; } 
+strong { font-size:larger; font-weight: bold; text-decoration: underline; }
+h1 { margin: 40px 0px 5px 0px; font-size: 20px; font-weight: bold; background-color: #37c; padding: 3px 0px; color: #fff; padding: 3px 3px; }
+h2 { margin: 40px 0px 5px 0px; font-size: 20px; font-weight: bold; background-color: #f00; padding: 3px 0px; color: #fff; padding: 3px 3px; }
+h3 { margin: 40px 0px 5px 0px; font-size: 18px; font-weight: bold; background-color: #bbb; padding: 3px 0px; padding: 3px 3px; }
+code { background-color:#BF7; }
+hr { border: 1px solid #999; margin: 5px 0px 10px; }
+blockquote { border-left: 2px solid #555; margin: 5px 0px 5px 20px; padding: 3px 5px; color: #36A; }
+</style>
+
 Rebot comes from REcommendation BOT -- a software robot which operates semi-automatically, via recommendations. 
 
 The idea echoes a recent advance in robot building called "social robotics", where robots learn what they have to do by socializing with their human guides.  "Guided learning" is another term for this. 
